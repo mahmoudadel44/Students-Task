@@ -1,0 +1,20 @@
+{
+
+    "Thanks":{
+        "1":"thank you very much"
+    },
+    "Headers":{
+        "Name":"Name",
+        "Status":"Status",
+         "Major":"Major"
+        },
+        "Tabs":{
+            "All":"All",
+            "Under Review":"Under Review",
+             "Initial Acceptance":"Initial Acceptance",
+             "Conditional Acceptance":"Conditional Acceptance",
+             "Rejected":"Rejected"
+            }
+
+}
+

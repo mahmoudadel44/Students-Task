@@ -1,0 +1,19 @@
+
+{
+
+    "Thanks":{
+        "1":"شكراً جداً لك"
+    },
+    "Headers":{
+        "Name":"الإسم",
+        "Status":"الحالة",
+         "Major":"التخصص"
+        },
+    "Tabs":{
+        "All":"الكل",
+        "Under Review":"تحت المراجعة",
+         "Initial Acceptance":"القبول الأولي",
+         "Conditional Acceptance":"القبول المشروط",
+         "Rejected":"مرفوض"
+        }
+}
